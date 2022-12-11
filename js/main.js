@@ -23,7 +23,7 @@ var typeRipVue = new Vue({
         fontIsActive: false,
         fontFamily: {},
         rawDownload: false,
-        message: {visible: true, title: "Typerip", text: "<p>The Adobe Font ripper.</p><br><p>Enter a font family URL from <a href='https://fonts.adobe.com/'>Adobe Fonts</a> to begin.</p>
+        message: {visible: true, title: "Typerip", text: "<p>The Adobe Font ripper.</p><br><p>Enter a font family URL from <a href='https://fonts.adobe.com/'>Adobe Fonts</a> to begin.</p>"
     },
     methods: {
         showMessage: function(title_, text_) {
